@@ -1,0 +1,14 @@
+C:\Users\f26xc0\Desktop\f26\C#\szelseb\bin\Debug\net6.0\szelseb.exe
+C:\Users\f26xc0\Desktop\f26\C#\szelseb\bin\Debug\net6.0\szelseb.deps.json
+C:\Users\f26xc0\Desktop\f26\C#\szelseb\bin\Debug\net6.0\szelseb.runtimeconfig.json
+C:\Users\f26xc0\Desktop\f26\C#\szelseb\bin\Debug\net6.0\szelseb.dll
+C:\Users\f26xc0\Desktop\f26\C#\szelseb\bin\Debug\net6.0\szelseb.pdb
+C:\Users\f26xc0\Desktop\f26\C#\szelseb\obj\Debug\net6.0\szelseb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f26xc0\Desktop\f26\C#\szelseb\obj\Debug\net6.0\szelseb.AssemblyInfoInputs.cache
+C:\Users\f26xc0\Desktop\f26\C#\szelseb\obj\Debug\net6.0\szelseb.AssemblyInfo.cs
+C:\Users\f26xc0\Desktop\f26\C#\szelseb\obj\Debug\net6.0\szelseb.csproj.CoreCompileInputs.cache
+C:\Users\f26xc0\Desktop\f26\C#\szelseb\obj\Debug\net6.0\szelseb.dll
+C:\Users\f26xc0\Desktop\f26\C#\szelseb\obj\Debug\net6.0\refint\szelseb.dll
+C:\Users\f26xc0\Desktop\f26\C#\szelseb\obj\Debug\net6.0\szelseb.pdb
+C:\Users\f26xc0\Desktop\f26\C#\szelseb\obj\Debug\net6.0\szelseb.genruntimeconfig.cache
+C:\Users\f26xc0\Desktop\f26\C#\szelseb\obj\Debug\net6.0\ref\szelseb.dll
